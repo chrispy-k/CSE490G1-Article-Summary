@@ -1,6 +1,8 @@
 # CSE490G1-Article-Summary
 
 ## Abstract
+Everyday we come across abundant amount of texts. From short Twitter posts to news articles, there are so many texts getting generated every day. In fact, according to Chartbeat, 92,000 articles get generated each day. Now, if we include things like Twitter posts, Facebook posts, etc, the number is going to be even bigger. We definitely cannot read them all, and reading only the ones that interest us will most likely be impossible as well. But, what if we can summarize those texts to few sentences? We can definitely manage more texts, and read some other texts that we may never have read because we did not have time
+
 
 ## Video
 
