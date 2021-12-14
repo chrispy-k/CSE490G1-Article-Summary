@@ -4,7 +4,7 @@
 Everyday we come across abundant amount of texts. From short Twitter posts to news articles, there are so many texts getting generated every day. Manually generating summaries for texts take too much time and effort. Thus, we would like to use deep learning to let the computers do summarization of texts. 
 
 ## Video
-To be added
+https://www.youtube.com/watch?v=zbKlvhyU5LE
 
 ## Introduction
 Recently, I made a habit to read a few articles in the morning to familiarize myself more with what is happening in the world. While I should not always read what I want to read, I sometimes finish an article and feel like I read something else. According to Chartbeat, 92,000 articles get generated each day. Now, if we include things like Twitter posts, Facebook posts, etc, the number is going to be even larger. We definitely cannot read them all, and reading only the ones that interest us will most likely be impossible as well. But, what if we can summarize those articles to few sentences or less? We can definitely manage more texts, and read some other texts that we may never have read because we did not have time.
